@@ -1,0 +1,105 @@
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\TesRegistration.dll.config
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\TesRegistration.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\TesRegistration.pdb
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Antlr3.Runtime.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\EntityFramework.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\EntityFramework.SqlServer.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Google.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Web.Infrastructure.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Newtonsoft.Json.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Owin.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\System.Web.Optimization.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\System.Web.Providers.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\WebGrease.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\System.Web.Optimization.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Antlr3.Runtime.pdb
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Newtonsoft.Json.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\EntityFramework.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\EntityFramework.SqlServer.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Google.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\obj\Debug\TesRegistration.csprojResolveAssemblyReference.cache
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\obj\Debug\TesRegistration.dll
+c:\users\patrycciachr.martin\documents\visual studio 2013\Projects\TesRegistration\TesRegistration\obj\Debug\TesRegistration.pdb
+D:\TesRegistration\TesRegistration\bin\TesRegistration.dll.config
+D:\TesRegistration\TesRegistration\bin\TesRegistration.dll
+D:\TesRegistration\TesRegistration\bin\TesRegistration.pdb
+D:\TesRegistration\TesRegistration\bin\Antlr3.Runtime.dll
+D:\TesRegistration\TesRegistration\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TesRegistration\TesRegistration\bin\AspNet.ScriptManager.jQuery.dll
+D:\TesRegistration\TesRegistration\bin\EntityFramework.dll
+D:\TesRegistration\TesRegistration\bin\EntityFramework.SqlServer.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Google.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TesRegistration\TesRegistration\bin\Microsoft.Web.Infrastructure.dll
+D:\TesRegistration\TesRegistration\bin\Newtonsoft.Json.dll
+D:\TesRegistration\TesRegistration\bin\Owin.dll
+D:\TesRegistration\TesRegistration\bin\System.Web.Optimization.dll
+D:\TesRegistration\TesRegistration\bin\System.Web.Providers.dll
+D:\TesRegistration\TesRegistration\bin\WebGrease.dll
+D:\TesRegistration\TesRegistration\bin\System.Web.Optimization.xml
+D:\TesRegistration\TesRegistration\bin\Antlr3.Runtime.pdb
+D:\TesRegistration\TesRegistration\bin\Newtonsoft.Json.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TesRegistration\TesRegistration\bin\EntityFramework.xml
+D:\TesRegistration\TesRegistration\bin\EntityFramework.SqlServer.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Google.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TesRegistration\TesRegistration\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TesRegistration\TesRegistration\obj\Debug\TesRegistration.dll
+D:\TesRegistration\TesRegistration\obj\Debug\TesRegistration.pdb
+D:\TesRegistration\TesRegistration\obj\Debug\TesRegistration.csprojResolveAssemblyReference.cache
+D:\TesRegistration\TesRegistration\bin\MySql.Data.dll
+D:\TesRegistration\TesRegistration\bin\MySql.Data.xml
+D:\TesRegistration\TesRegistration\obj\Debug\TesRegistration.csproj.CoreCompileInputs.cache

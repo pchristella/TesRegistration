@@ -1,0 +1,48 @@
+﻿body 
+{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;  
+}
+
+.bck2
+{
+    width: auto;
+    background-image:url("img/tesbck.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.footer
+{
+    position:fixed;
+    bottom:0px;
+    height:30px;
+}
+
+.lbl_1
+        {
+            font-size:40px;
+            color:black;
+            font-family:'Museo Sans Cyrl 300';
+            align-items:center;
+        }
+
+.lbl_2
+        {
+            font-size:65px;
+            font-weight:800;
+            color:black;
+            font-family:'Museo Sans Cyrl 300';
+        }
+
+.txtbox
+{
+    min-width:100%;
+}
+
+.txtbox2
+{
+    width:50%;
+}
